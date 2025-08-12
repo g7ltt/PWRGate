@@ -1,0 +1,2 @@
+//MPD-File
+#ifndef(pack_D1) #declare global_pack_D1=yes; object {TR_SOT82_L("",)translate<0,0,0> rotate<0,0.000000,0>rotate<0,-270.000000,0> rotate<0,0,0> translate<41.656000,0.000000,25.146000>}#end		//SOT82 horizontal D1  SOT82L
